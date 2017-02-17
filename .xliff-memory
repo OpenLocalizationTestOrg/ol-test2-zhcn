@@ -4,8 +4,8 @@
       "SourceFilename": "e2e\\1ca1e182-405e-4064-8291-610bf35954fc.md",
       "XliffHash": "d6135f0f43aa152dc2ecff20de150d83583020ff",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-02-17T04:15:12.1813597Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test2-zhcn\\ci\\0ba0b46c751a71c476cdf75d42b3e98e2047829d.e9bbd23e1d6be86a8fd5aaf41863a3074acce132.xml",
       "LocXliff": null,
       "LocXliffCommit": null
@@ -14,8 +14,8 @@
       "SourceFilename": "e2e\\96a620e3-a6c9-4d35-8ff0-f3ea27fec3b0.md",
       "XliffHash": "0a68e1048e83f7d40b4eeda0ae2f002dab8200bc",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-02-17T04:15:12.1813597Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test2-zhcn\\ci\\bd9b89f93e6e8756854523f155192c25c1014e1b.653e0994a60e9fb6f92fe5100a415badc9699571.xml",
       "LocXliff": null,
       "LocXliffCommit": null
